@@ -2,46 +2,27 @@
 sidebar_position: 1
 ---
 
-# Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### Who we are?
 
-## Getting Started
+We are a team of software engineers and developers passionate about blockchain technology with a strong belief in the freedom and privacy of each individual. Our team is a perfect blend of core developers and UX/UI designers. We all love Bitcoin since it introduced us the amazing world of blockchain technology, we also love Ethereum and the smart contract technology but since both BTC and ETH became store of value rather than a peer-to-peer electronic cash system (like it was stated in the Bitcoin whitepaper by Satoshi Nakamoto) we decided to bring Neatio to life.
 
-Get started by **creating a new site**.
+### Neatio in a Nutshell
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Neatio is a decentralized peer-to-peer network based on blockchain technology like Bitcoin and Ethereum with the main focus on exchanging value fast, secure and inexpensive. Of course the platform is not limited to payments only, since Neatio can also be used by other developers to run their own dApps (decentralized applications) and/or launch their own cryptocurrencies, but this is not the main focus of the network, payments are.
 
-### What you'll need
+Neatio blockchain has a super fast block generation time, a very secure consensus protocol thanks to the byzantine fault tolerance (BFT) integration and is also energy efficient since Neatio blocks are minted by the network validators (PoS) making it environment-friendly because you don't need expensive dedicated mining equipment and the need to consume huge amounts of electricity like in the case of PoW blockchains.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Neatio Key Features
 
-## Generate a new site
+- Side Chains ecosystem
+- Energy efficient (Proof-Of-Stake)
+- Very fast transactions (~ 50 ms)
+- No transactions confirmation needed
+- Thousands of transactions per second
+- Adaptive block size (up to 20MB blocks)
 
-Generate a new Docusaurus site using the **classic template**.
+### Our mission
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We aim to provide one of the fastest and secure means of payment based on the state of the art blockchain technology. Why blockchain? Because it is decentralized and very secure. One of our main goals is to integrate the payment solution with as many merchants as possible, all over the world. Throughout, but not limited to our simple, yet efficient, One Click Pay Neatio browser extension. Note, the browser extension is not yet available, and is work in progress.
