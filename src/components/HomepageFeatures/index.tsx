@@ -10,8 +10,8 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Blazing Fast',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Instant Money Transfer',
+    Svg: require('@site/static/img/speed-feature.svg').default,
     description: (
       <>
        Neatio is an ultra fast blockchain network, with sub-second transactions confirmation which makes it ideal for day to day use.
@@ -19,17 +19,17 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Highly Scalable',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'No Subsequent Confirmations',
+    Svg: require('@site/static/img/no-conf.svg').default,
     description: (
       <>
-        Our blockchain is composed of one main chain and multiple derived side-chains all connected together and acting like one.
+        Say goodbye to network congestion and block confirmations waiting time. Neatio transactions reach finality within the same block.
       </>
     ),
   },
   {
-    title: 'Eco Friendly',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Eco Friendly Blockchain',
+    Svg: require('@site/static/img/eco-svg.svg').default,
     description: (
       <>
         Neatio platform is using the (Proof-Of-Stake) mechanism to verify blocks, making it energy efficient, thus environmentally friendly. 

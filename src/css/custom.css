@@ -41,7 +41,42 @@
   margin-bottom: 4rem;
 }
 
-.navbar {
-  max-width: 1320px;
+.footer {
+  background-color: #24292f;
 }
+
+.features_src-components-HomepageFeatures-styles-module {
+  background-color: #000;
+  color: #ddd;
+}
+
+.navbar {
+  background-color: #24292f;
+  color: #00bfff;
+}
+.navbar__title{
+  color: #a6ff33;
+}
+
+.button {
+  color: #00bfff;
+  background-color: #00bfff;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #00bfff;
+}
+
+.button:hover {
+  color: #a6ff33;
+  background-color: #24292f;
+
+  border-color: #a6ff33;
+}
+
+.button--secondary {
+  color: #fff
+}
+
+
 
