@@ -68,11 +68,11 @@ const config = {
             items: [
               {
               label: 'Discord',
-              href: 'https://discord.neatio.net',
+              href: 'https://dd.neatio.net',
             },
             {
               label: 'Telegram',
-              href: 'https://t.me/Neat_io',
+              href: 'https://t.me/neat_io',
             },
             {
               label: 'Bitcointalk',
@@ -89,7 +89,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/neat_io',
+                href: 'https://twitter.com/neatio_network',
               },
               {
                 label: 'Facebook',
@@ -102,15 +102,15 @@ const config = {
             items: [
               {
                 label: 'Wallet',
-                href: 'https://github.com/neatlab',
+                href: 'https://wallet.neatio.net',
               },
               {
                 label: 'Explorer',
-                href: 'https://github.com/neatlab',
+                href: 'https://scan.neatio.net',
               },  
               {
                 label: 'GitHub',
-                href: 'https://github.com/neatlab',
+                href: 'https://github.com/neatio-network',
               },
             ],
           },
