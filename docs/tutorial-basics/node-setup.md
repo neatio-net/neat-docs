@@ -18,8 +18,8 @@ To import an existing wallet log into the Neatio console with `./neatio attach /
 ### Generate your validator file
 In the VPS terminal type `./neatio cvf YOUR_ADDRESS`
 
-Validator `consensus_priv_key` is a 64 long string.  
-Validator `consensus_pub_key` is a 256 long string.   
+Validator `consensus_pub_key` is a 256 long string.  
+Validator `consensus_priv_key` is a 64 long string.   
 
 ### Note
 Copy the output as you will need it in the next step and is a good idea to also back it up.  
