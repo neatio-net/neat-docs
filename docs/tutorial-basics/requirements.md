@@ -12,7 +12,7 @@ sidebar_position: 1
 
 - 2 vCPUs 
 - 4 GB of RAM
-- 40 GB SSD
+- 80 GB SSD
 
 ### Recommended VPS specifications
 
